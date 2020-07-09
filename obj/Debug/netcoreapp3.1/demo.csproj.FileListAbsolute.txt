@@ -6,7 +6,6 @@
 /Users/snehi/projects/AzureAD/demowebapp/demo/bin/Debug/netcoreapp3.1/demo.runtimeconfig.dev.json
 /Users/snehi/projects/AzureAD/demowebapp/demo/bin/Debug/netcoreapp3.1/demo.dll
 /Users/snehi/projects/AzureAD/demowebapp/demo/bin/Debug/netcoreapp3.1/demo.pdb
-/Users/snehi/projects/AzureAD/demowebapp/demo/obj/Debug/netcoreapp3.1/demo.csprojAssemblyReference.cache
 /Users/snehi/projects/AzureAD/demowebapp/demo/obj/Debug/netcoreapp3.1/demo.AssemblyInfoInputs.cache
 /Users/snehi/projects/AzureAD/demowebapp/demo/obj/Debug/netcoreapp3.1/demo.AssemblyInfo.cs
 /Users/snehi/projects/AzureAD/demowebapp/demo/obj/Debug/netcoreapp3.1/demo.csproj.CoreCompileInputs.cache
